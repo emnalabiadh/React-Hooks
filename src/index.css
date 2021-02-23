@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://www.google.com/search?q=img&rlz=1C1CHBF_frTN921TN921&sxsrf=ALeKk022YwJe1h2We5-RU6qdPYzxp-KLwg:1614011559583&tbm=isch&source=iu&ictx=1&fir=GDgToFW06pW1uM%252ChFtYl-FEX25j5M%252C_&vet=1&usg=AI4_-kQTImk_gpInUILlb9Au1UOgn26xHw&sa=X&ved=2ahUKEwj4_6_N9f3uAhUnuqQKHZxEBYoQ9QF6BAgEEAE#imgrc=GDgToFW06pW1uM");
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
